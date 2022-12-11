@@ -88,3 +88,4 @@ module.exports = {
   //☝🏽 For a cleaner dev-server run
 };
 ```
+1. clone [here](https://nicepage.com/ht/1241583/new-technology-perspectives-html-template) 

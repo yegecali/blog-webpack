@@ -5,6 +5,7 @@ const PugPlugin = require('pug-plugin');
 const rootPug = "./src/pug/"
 
 module.exports = {
+  mode: "development",
   entry: {
     index: `${rootPug}index.pug`
     //☝🏽 Insert your PUG HTML files here
